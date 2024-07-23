@@ -1,0 +1,5 @@
+*.vec
+
+*.tsv
+
+.ipynb_checkpoints/
